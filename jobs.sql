@@ -1,0 +1,15 @@
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Software Test Engineer III', 'Wordpedia', 'General Surgery', 6, '93834.91');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Actuary', 'Twimm', 'SMT Kingdom', 1, '48086.31');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Analog Circuit Design manager', 'Tagpad', 'Spanish', 5, '86496.40');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Help Desk Technician', 'Devshare', 'Branding &amp; Identity', 10, '23448.62');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Nurse Practicioner', 'Eayo', 'Umbrella Insurance', 2, '41432.56');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Paralegal', 'Devpulse', 'HTK', 2, '81151.40');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Account Executive', 'Dabshots', 'MPLS Networking', 7, '20072.93');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Electrical Engineer', 'Devcast', 'Agile Methodologies', 1, '62153.34');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Health Coach I', 'Feedfish', 'Short Films', 9, '68924.24');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Staff Accountant IV', 'Ntag', 'Ultrasonics', 9, '73895.30');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Analog Circuit Design manager', 'Devify', 'iPhone', 2, '32970.36');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Senior Financial Analyst', 'Meeveo', 'Psychiatry', 6, '92071.11');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('VP Product Management', 'Ooba', 'MPEG2', 1, '50102.42');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Senior Quality Engineer', 'Skyba', 'MFG-Pro', 6, '94418.94');
+insert into PersonalDetails.jobs (job_profile, company, skills, exp, salary) values ('Chief Design Engineer', 'Fanoodle', 'TCO reduction', 2, '57541.28');
